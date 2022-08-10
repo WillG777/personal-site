@@ -32,7 +32,7 @@
 </script>
 
 <svelte:head>
-  <link rel="stylesheet" href="public/smui{darkMode ? '-dark' : ''}.css">
+  <link rel="stylesheet" href="smui{darkMode ? '-dark' : ''}.css">
 </svelte:head>
 <svelte:window bind:innerWidth={innerWidth}></svelte:window>
 

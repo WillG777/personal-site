@@ -18,13 +18,3 @@
     </Content>
   </Card>
 </div>
-<!-- 
-<LayoutGrid>
-  <Cell span={3}>
-    <slot name="image"></slot>
-  </Cell>
-  <Cell span={9}>
-    <h2><slot name="title"></slot></h2>
-    <p><slot name="desc"></slot></p>
-  </Cell>
-</LayoutGrid> -->
