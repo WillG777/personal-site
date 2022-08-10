@@ -32,7 +32,7 @@
 </script>
 
 <svelte:head>
-  <link rel="stylesheet" href="src/smui{darkMode ? '-dark' : ''}.css">
+  <link rel="stylesheet" href="public/smui{darkMode ? '-dark' : ''}.css">
 </svelte:head>
 <svelte:window bind:innerWidth={innerWidth}></svelte:window>
 
@@ -56,7 +56,7 @@
     <TopAppBar bind:this={topAppBar} variant="fixed">
       <Row>
         <Section>
-              <img on:click={() => navigate('/')} src="src/assets/wg-logo.png" alt="WG" width="50" style="cursor: pointer">
+              <img on:click={() => navigate('/')} src="wg-logo.png" alt="WG" width="50" style="cursor: pointer">
               <h2 on:click={() => navigate('/')} style="padding: 0px 10px; cursor: pointer">Will Giorza</h2>
         </Section>
         <Section>
