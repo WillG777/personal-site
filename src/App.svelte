@@ -11,6 +11,7 @@
   import Education from "./pages/Education.svelte";
   import Drawer, { Content as DrawerContent, Header, Title as DrawerTitle, Scrim, AppContent } from "@smui/drawer";
   import List, { Item } from "@smui/list";
+  import { onMount } from "svelte";
 
   
 
@@ -29,6 +30,11 @@
     drawerOpen = false;
     navigate(page);
   }
+  onMount(() => {
+		if (window.location.search.startsWith('?page=')) {
+			navigate('/' + window.location.search.substring(6))
+		}
+	})
 </script>
 
 <svelte:head>
