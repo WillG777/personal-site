@@ -9,7 +9,7 @@
     <Cell span={6}>
       <ExpItem img="ata-editing-screenshot.jpg">
       <svelte:fragment slot="title">Squaw Peak ATA</svelte:fragment>
-      <svelte:fragment slot="desc">I designed a <a href="squawpeakata.com">website</a> for the taekwondo school where I'm an instructor. In addition to designing the layout, I created an editing interface so authorized users (the school owner and I) can change text and images on the site, and add entries to the Instructors page, without editing the code. I used Svelte and Svelte Material UI for the front end and Google Firebase (Authentication and Realtime Database) for the backend.</svelte:fragment>
+      <svelte:fragment slot="desc">I designed a <a href="https://squawpeakata.com">website</a> for the taekwondo school where I'm an instructor. In addition to designing the layout, I created an editing interface so authorized users (the school owner and I) can change text and images on the site, and add entries to the Instructors page, without editing the code. I used Svelte and Svelte Material UI for the front end and Google Firebase (Authentication and Realtime Database) for the backend.</svelte:fragment>
       </ExpItem>
     </Cell>
     <Cell span={6}>
