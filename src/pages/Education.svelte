@@ -4,7 +4,7 @@
 <main>
   <h1>Education</h1>
 
-  <p>I am a sophomore at UC Berkeley majoring in Electrical Engineering and Computer Sciences with an expected graduation date of May 2024. I've taken the following relevant coursework:</p>
+  <p>I am an Electrical Engineering and Computer Sciences major at UC Berkeley planning to graduate in May 2024. I've taken the following relevant coursework:</p>
 
   <h3>Fall 2022</h3>
   <ul>
