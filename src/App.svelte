@@ -97,6 +97,16 @@
           <Cell span={1} />
         </LayoutGrid>
       </div>
+      <footer>
+        <LayoutGrid>
+          <Cell spanDevices={{ desktop: 6, tablet: 4, phone: 2 }}>
+            <p>&copy; 2022 Will Giorza</p>
+          </Cell>
+          <Cell spanDevices={{ desktop: 6, tablet: 4, phone: 2 }}>
+            <p>Made with <a href="https://svelte.dev">Svelte</a> and <a href="https://sveltematerialui.com">SMUI</a></p>
+          </Cell>
+        </LayoutGrid>
+      </footer>
     </AutoAdjust>
   </AppContent>
 </Router>
@@ -105,8 +115,13 @@
 <style>
   #routeContainer {
     padding: 8px;
+    min-height: 75vh;
   }
   .activeLink {
     font-weight: bold;
+  }
+  footer p {
+    text-align: center;
+    font-size: 0.9rem;
   }
 </style>
