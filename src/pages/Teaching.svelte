@@ -3,11 +3,13 @@
 </script>
 <main>
   <h1>Teaching</h1>
-
-  <p>One of my favorite parts of Berkeley is the undergrad teaching experience. </p>
-
-  <h3>CS 61A tutor (Fall 2022)</h3>
-  <p class="indent">As a tutor, I run one group section per week where I work with 5 students and go over exam or discussion problems. I also hold 5 weekly office hours where I answer students' questions on homework, projects, past exams, or general course content. Lastly, I help with other aspects of the course such as exam grading and answering questions on Ed, the course discussion forum.</p>
+  
+  <h3>CS 61A tutor (Fall 2022, Spring 2023)</h3>
+  <p class="indent">As a tutor, I ran one group section per week where I work with 3-6 students and went over exam problems. I also held 3-5 weekly office hours where I answered students' questions on homework, projects, past exams, or general course content. Lastly, I helped with other aspects of the course such as exam grading, answering questions on the course discussion forum, and updating lab assignments.</p>
+  <h3>Codebreaking at Cal TA (Spring 2023)</h3>
+  <p class="indent">As a TA for the <a href="https://codebreakingatcal.org">Codebreaking</a> decal (a student-run course), I mainly worked on problem sets and also helped to update lab assignments. </p>
+  <h3>CS 70 Junior CSM Mentor (Spring 2023)</h3>
+  <p class="indent">As a junior mentor, I taught a section of 3-5 students twice a week where I gave mini-lectures and went through worksheet problems. I also led a part of CSM's final exam review session.</p>
   <h3>CS 61A academic intern (Spring 2022)</h3>
   <p class="indent">As an AI, I worked in lab sections of 20-30 students once per week. My duties mainly consisted of helping answer debugging and conceptual questions to help students complete lab and homework assignments. I also worked with other AIs to give a mini-lecture on the Scheme language.</p>
 </main>
