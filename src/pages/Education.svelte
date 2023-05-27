@@ -6,6 +6,12 @@
 
   <p>I am an Electrical Engineering and Computer Sciences major at UC Berkeley planning to graduate in May 2024. I've taken the following relevant coursework:</p>
 
+  <h3>Spring 2023</h3>
+  <ul>
+    <li><b>CS 162:</b>Operating Systems and Systems Programming</li>
+    <li><b>CS 164:</b>Programming Languages and Compilers</li>
+  </ul>
+
   <h3>Fall 2022</h3>
   <ul>
     <li><b>CS 161:</b> Computer Security</li>
