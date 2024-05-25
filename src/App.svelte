@@ -100,7 +100,7 @@
       <footer>
         <LayoutGrid>
           <Cell spanDevices={{ desktop: 6, tablet: 4, phone: 2 }}>
-            <p>&copy; 2022 Will Giorza</p>
+            <p>&copy; 2024 Will Giorza</p>
           </Cell>
           <Cell spanDevices={{ desktop: 6, tablet: 4, phone: 2 }}>
             <p>Made with <a href="https://svelte.dev">Svelte</a> and <a href="https://sveltematerialui.com">SMUI</a></p>

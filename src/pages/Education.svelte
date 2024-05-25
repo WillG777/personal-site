@@ -4,12 +4,18 @@
 <main>
   <h1>Education</h1>
 
-  <p>I am an Electrical Engineering and Computer Sciences major at UC Berkeley planning to graduate in May 2024. I've taken the following relevant coursework:</p>
+  <p>I am an Electrical Engineering and Computer Sciences major at UC Berkeley and graduated in December 2023. I've taken the following relevant coursework:</p>
+
+  <h3>Fall 2023</h3>
+  <ul>
+    <li><b>CS 186: </b>Database Systems</li>
+    <li><b>CS 261: </b>Graduate Computer Security</li>
+  </ul>
 
   <h3>Spring 2023</h3>
   <ul>
-    <li><b>CS 162:</b>Operating Systems and Systems Programming</li>
-    <li><b>CS 164:</b>Programming Languages and Compilers</li>
+    <li><b>CS 162: </b>Operating Systems and Systems Programming</li>
+    <li><b>CS 164: </b>Programming Languages and Compilers</li>
   </ul>
 
   <h3>Fall 2022</h3>

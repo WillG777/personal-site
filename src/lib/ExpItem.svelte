@@ -11,8 +11,9 @@
         <slot name="title"></slot>       
       </h2>
     </div>
-
-    <Media class="card-media-16x9" style="background-image: url({img})" aspectRatio="16x9" />
+    {#if img}
+      <Media class="card-media-16x9" style="background-image: url({img})" aspectRatio="16x9" />
+    {/if}
     <Content class="mdc-typography--body2">
       <slot name="desc"></slot>
     </Content>
