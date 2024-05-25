@@ -10,7 +10,7 @@
     <Cell span={6}>
       <ExpItem img="pic-with-duo.jpg">
       <svelte:fragment slot="title">Duolingo</svelte:fragment>
-      <svelte:fragment slot="desc">I worked as a software engineering intern on Duolingo's Cloud Operations team. My project consisted of two internal tools. The first was a Slack bot that used GPT-4 and pulled data from Slack and Zoom to automatically generate incident reports. The second was a React app to suggest and schedule employees for review sessions. I used Python for the backend of both tools and deployed them as AWS Lambda functions using Terraform.</svelte:fragment>
+      <svelte:fragment slot="desc">I worked as a software engineering intern on <a href="https://duolingo.com">Duolingo</a>'s Cloud Operations team. My project consisted of two internal tools. The first was a Slack bot that used GPT-4 and pulled data from Slack and Zoom to automatically generate incident reports. The second was a React app to suggest and schedule employees for review sessions. I used Python for the backend of both tools and deployed them as AWS Lambda functions using Terraform.</svelte:fragment>
       </ExpItem>
     </Cell>
     <Cell span={6}>
